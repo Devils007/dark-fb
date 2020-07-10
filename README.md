@@ -8,4 +8,3 @@ $ pip2 install mechanize
 $ git clone https://github.com/V4N654T/dark-fb
 $ cd dark-fb
 $ python2 da.py
-```
