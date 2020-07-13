@@ -1,5 +1,5 @@
-# Fb Eror Toxic
-Hack Facebook
+# Eror Toxic
+# Installation
 
 pkg update
 
@@ -9,12 +9,14 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/Tech-abm/Import
+git clone https://github.com/Devils007/Eror-Toxic
 
-cd Import
+cd Eror-Toxic
 
 pip2 install requests
 
 pip2 install mechanize
 
-python2 Abm.py
+ls
+
+python2 Toxic.py
